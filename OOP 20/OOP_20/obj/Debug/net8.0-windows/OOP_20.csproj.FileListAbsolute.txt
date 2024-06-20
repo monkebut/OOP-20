@@ -1,0 +1,16 @@
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\bin\Debug\net8.0-windows\OOP_20.exe
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\bin\Debug\net8.0-windows\OOP_20.deps.json
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\bin\Debug\net8.0-windows\OOP_20.runtimeconfig.json
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\bin\Debug\net8.0-windows\OOP_20.dll
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\bin\Debug\net8.0-windows\OOP_20.pdb
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\OOP_20.Form1.resources
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\OOP_20.csproj.GenerateResource.cache
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\OOP_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\OOP_20.AssemblyInfoInputs.cache
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\OOP_20.AssemblyInfo.cs
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\OOP_20.csproj.CoreCompileInputs.cache
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\OOP_20.dll
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\refint\OOP_20.dll
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\OOP_20.pdb
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\OOP_20.genruntimeconfig.cache
+C:\Users\jeka0\Downloads\OOP 20\OOP_20\obj\Debug\net8.0-windows\ref\OOP_20.dll
